@@ -1,1 +1,1 @@
-# ConsoleApp3
+#Stream Class for Exmple in C#
